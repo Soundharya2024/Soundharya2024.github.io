@@ -1,3 +1,5 @@
 title: Jobs JSON API
 description: Hosting Json data for api calls
 theme: jekyll-theme-merlot
+baseurl: "/jobs-json"
+url: "https://soundharya2024.github.io"
